@@ -9,7 +9,7 @@ Joe
 "ko - fo"
 jonah
 kennedy
-"sahn jinn uh"
+"sahn jinn uh"[x]
 "soo duh car"
 "pruh teek"
 "sahn jeed"
